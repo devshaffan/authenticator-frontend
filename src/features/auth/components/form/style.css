@@ -1,0 +1,27 @@
+.login-button {
+  background: linear-gradient(90deg, #0198f7 0%, #7fc2fb);
+}
+
+.login-button:hover {
+  background: linear-gradient(180deg, rgba(54, 62, 78, 0.2), rgba(54, 62, 78, 0.2)),
+    linear-gradient(90deg, #0198f7 0%, #7fc2fb);
+}
+
+.login-button:active {
+  background: linear-gradient(180deg, rgba(54, 62, 78, 0.1), rgba(54, 62, 78, 0.1)),
+    linear-gradient(90deg, #0198f7 0%, #7fc2fb);
+}
+
+.sign-up-button {
+  background: linear-gradient(90deg, #2cbd9a 0%, #65c86d);
+}
+
+.sign-up-button:hover {
+  background: linear-gradient(180deg, rgba(54, 62, 78, 0.2), rgba(54, 62, 78, 0.2)),
+    linear-gradient(90deg, #2cbd9a 0%, #65c86d);
+}
+
+.sign-up-button:active {
+  background: linear-gradient(180deg, rgba(54, 62, 78, 0.1), rgba(54, 62, 78, 0.1)),
+    linear-gradient(90deg, #2cbd9a 0%, #65c86d);
+}
